@@ -63,16 +63,16 @@ college_data = {
     "fees": "B.Tech: ₹2.5–3.5 LPA \n BCA: ₹1.2–1.5 LPA PER YEAR",
     "placement": "Highest: ₹65+ LPA  Avg: ₹5–8 LPA",
     "hostel": "WiFi, Mess, Security 24/7,ALL best  are their",
-    "hostel name": "CHANDRA SHEKHER AZAD\n  
+    "hostel name": """CHANDRA SHEKHER AZAD\n  
     SARDAR PATEL HOSTEL\n  
     NETAJI SUBHASH CHANDRA HOSTEL\n
-    SAI HOSTEL", 
+    SAI HOSTEL""", 
     "hostel fees ":" 160000 These fees may vary for different hostels ",
     "faculty": "600+ Faculty | PhD Holders",
     
-    " faculty names": "Mr. Priyansh Kumar (Introduction to Data Science)\n
+    " faculty names": """Mr. Priyansh Kumar (Introduction to Data Science)\n
     Mr. Mohit Amoli (Foundations of Artificial Intelligence) \n
-    Dr.",
+    Dr.""",
     
 }
 
