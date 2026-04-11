@@ -70,7 +70,7 @@ college_data = {
     "hostel fees ":" 160000 These fees may vary for different hostels ",
     "faculty": "600+ Faculty | PhD Holders",
     
-    " faculty names": """Mr. Priyansh Kumar (Introduction to Data Science)\n
+    " faculty names": """Names/Title : Mr. Priyansh Kumar (Introduction to Data Science)\n
     Mr. Mohit Amoli (Foundations of Artificial Intelligence) \n
     Dr.""",
     
