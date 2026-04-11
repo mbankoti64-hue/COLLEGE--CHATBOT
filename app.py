@@ -66,7 +66,7 @@ college_data = {
     "hostel name": "CHANDRA SHEKHER AZAD \n  SARDAR PATEL HOSTEL \n  NETAJI SUBHASH CHANDRA HOSTEL  \n SAI HOSTEL", 
     "hostel fees ":" 160000 These fees may vary for different hostels ",
     "faculty": "600+ Faculty | PhD Holders",
-    " faculty names": "Mr. Priyansh Kumar (Introduction to Data Science)\n Mr. Mohit Amoli (Foundations of Artificial Intelligence) \n Dr."
+    " faculty names": "Mr. Priyansh Kumar (Introduction to Data Science)\n Mr. Mohit Amoli (Foundations of Artificial Intelligence) \n Dr.",
     
 }
 
