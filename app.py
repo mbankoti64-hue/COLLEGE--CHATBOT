@@ -186,37 +186,37 @@ st.title("🎓 Graphic Era Smart Assistant")
 st.write("Your 24/7 College Help Partner 🤖")
 
 # Data (FIXED)
-college_data = {
-    "about": {
+college_data = 
+    "about": 
         "established": 1997,
         "location": "Dehradun, Uttarakhand",
         "founder": "Prof. (Dr.) Kamal Ghanshala",
         "type": "Private Deemed University",
         "accreditation": "NAAC A+ Grade",
         "approved_by": "UGC, AICTE"
-    },
+    ,
 
     "courses": "B.Tech, BCA, MBA, BBA, B.Com, MCA (100+ Courses)",
     
-    "fees": {
+    "fees": 
         "B.Tech": "₹2.5–3.5 LPA",
         "BCA": "₹1.2–1.5 LPA per year"
-    },
+    ,
 
     "placement": "Highest: ₹65+ LPA | Average: ₹5–8 LPA",
 
-    "hostel": {
-        "names": [
-            "Chandra Shekhar Azad Hostel",
-            "Sardar Patel Hostel",
-            "Netaji Subhash Chandra Hostel",
+    "hostel": 
+        "names": 
+            "Chandra Shekhar Azad Hostel\n",
+            "Sardar Patel Hostel\n",
+            "Netaji Subhash Chandra Hostel\n",
             "Sai Hostel"
-        ],
+        
         "fees": "₹160000 (approx)"
-    },
+    ,
 
     "faculty": "600+ Faculty | PhD Holders"
-}
+
 
 # Sidebar
 st.sidebar.title("📌 Quick Menu")
