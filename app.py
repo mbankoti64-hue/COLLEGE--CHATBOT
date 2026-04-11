@@ -71,10 +71,14 @@ college_data = {
     SAI HOSTEL  \n
     "hostel fees ": 160000 These fees may vary for different hostels """, 
 
+     "
     # "mayank": "hello",
     
    
-    "faculty": "600+ Faculty | PhD Holders"
+    "faculty":"""Name: priyansh kumar \n
+                       mohit amoli 
+                       mayank
+    "600+ Faculty | PhD Holders"""
     
    
 }
