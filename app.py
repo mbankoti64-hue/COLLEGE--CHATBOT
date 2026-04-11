@@ -59,7 +59,6 @@ college_data = {
      Type: Private Deemed University \n
      Accreditation: NAAC A+ Grade \n
      Approved by: UGC, AICTE""",
-     
     "courses": "B.Tech, BCA, MBA, BBA, B.Com, MCA TOTAL 100+ course (UG + PG + PHD + Diploma)" ,
     "fees": "B.Tech: ₹2.5–3.5 LPA \n BCA: ₹1.2–1.5 LPA PER YEAR",
     "placement": "Highest: ₹65+ LPA \n Avg: ₹5–8 LPA",
@@ -123,6 +122,8 @@ def get_response(user_input):
         return college_data["faculty"]
     elif "about" in user_input or "college" in user_input:
         return college_data["about"]
+    elif "faculty name" in user_input:
+        return college_data["faculty name"]
     elif "hi" in user_input or "hello" in user_input or "namste bhai jii" in user_input:
         return "AA GYA GANDU HIIIIIIIIII KESA LGA MERA MAJAK "
     else:
