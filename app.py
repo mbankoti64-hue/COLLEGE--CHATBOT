@@ -59,21 +59,24 @@ college_data = {
      Type: Private Deemed University \n
      Accreditation: NAAC A+ Grade \n
      Approved by: UGC, AICTE""",
+    
     "courses": "B.Tech, BCA, MBA, BBA, B.Com, MCA TOTAL 100+ course (UG + PG + PHD + Diploma)" ,
     "fees": "B.Tech: ₹2.5–3.5 LPA \n BCA: ₹1.2–1.5 LPA PER YEAR",
     "placement": "Highest: ₹65+ LPA  Avg: ₹5–8 LPA",
-    # "hostel": "WiFi, Mess, Security 24/7,ALL best  are their",
+   
     "hostel name": """CHANDRA SHEKHER AZAD\n  
     SARDAR PATEL HOSTEL\n  
     NETAJI SUBHASH CHANDRA HOSTEL\n
     SAI HOSTEL""", 
-    "hostel fees ":" 160000 These fees may vary for different hostels ",
-    "faculty": "600+ Faculty | PhD Holders",
     
-    " faculty names": """Names/Title : Mr. Priyansh Kumar (Introduction to Data Science)\n
+    " faculty names": """Names/Title" : Mr. Priyansh Kumar (Introduction to Data Science)\n
     Mr. Mohit Amoli (Foundations of Artificial Intelligence) \n
-    Dr."""
+    Dr.""",
     
+    "hostel fees ":" 160000 These fees may vary for different hostels ",
+    "faculty": "600+ Faculty | PhD Holders"
+    
+   
 }
 
 # -------------------------------
