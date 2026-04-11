@@ -69,7 +69,7 @@ college_data = {
     NETAJI SUBHASH CHANDRA HOSTEL\n
     SAI HOSTEL""", 
 
-    "mayank": "hello",
+    # "mayank": "hello",
     
     "hostel fees ":" 160000 These fees may vary for different hostels ",
     "faculty": "600+ Faculty | PhD Holders"
@@ -117,8 +117,8 @@ def get_response(user_input):
         return college_data["fees"]
     elif "course" in user_input:
         return college_data["courses"]
-     elif "mayank" in user_input:
-        return college_data["mayank"]
+     # elif "mayank" in user_input:
+     #    return college_data["mayank"]
     elif "hostel name" in user_input:
         return college_data["hostel name"]
     elif "hostel fees" in user_input:
