@@ -72,7 +72,7 @@ college_data = {
     
     " faculty names": """Names/Title : Mr. Priyansh Kumar (Introduction to Data Science)\n
     Mr. Mohit Amoli (Foundations of Artificial Intelligence) \n
-    Dr.""",
+    Dr."""
     
 }
 
