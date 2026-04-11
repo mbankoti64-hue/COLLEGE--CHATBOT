@@ -68,10 +68,8 @@ college_data = {
     SARDAR PATEL HOSTEL\n  
     NETAJI SUBHASH CHANDRA HOSTEL\n
     SAI HOSTEL""", 
-    
-    " faculty names": """Names/Title" : Mr. Priyansh Kumar (Introduction to Data Science)\n
-    Mr. Mohit Amoli (Foundations of Artificial Intelligence) \n
-    Dr.""",
+
+    "mayank": "hello",
     
     "hostel fees ":" 160000 These fees may vary for different hostels ",
     "faculty": "600+ Faculty | PhD Holders"
@@ -119,15 +117,14 @@ def get_response(user_input):
         return college_data["fees"]
     elif "course" in user_input:
         return college_data["courses"]
+     elif "mayank" in user_input:
+        return college_data["mayank"]
     elif "hostel name" in user_input:
         return college_data["hostel name"]
     elif "hostel fees" in user_input:
         return college_data["hostel fees"]
     elif "placement" in user_input:
         return college_data["placement"]
-    # elif "hostel" in user_input:
-    elif "faculty names" in user_input:
-        return college_data["faculty names"]
     elif "faculty" in user_input:
         return college_data["faculty"]
     elif "about" in user_input or "college" in user_input:
