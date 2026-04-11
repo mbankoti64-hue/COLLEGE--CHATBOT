@@ -53,10 +53,14 @@ if "welcome_shown" not in st.session_state:
 # Data
 # -------------------------------
 college_data = {
-    "about": "LOCATION" : "Dehadun , uttrakhand" 
-     "ESTABLISHED: 1997,
+    "about": """LOCATION" : Dehadun , uttrakhand 
+     ESTABLISHED: 1997
+     Founder: Prof.(Dr.)Kamal Ghanshala
+     Type: Private Deemed University
+     Accreditation: NAAC A+ Grade
+     Approved by: UGC, AICTE""",
      
-    "courses": "B.Tech, BCA, MBA, BBA, B.Com, MCA TOTAL 100+ course (UG + PG + PHD + Diploma) ",
+    "courses": "B.Tech, BCA, MBA, BBA, B.Com, MCA TOTAL 100+ course (UG + PG + PHD + Diploma)" ,
     "fees": "B.Tech: ₹2.5–3.5 LPA | BCA: ₹1.2–1.5 LPA PER YEAR",
     "placement": "Highest: ₹65+ LPA | Avg: ₹5–8 LPA",
     "hostel": "WiFi, Mess, Security 24/7","ALL best  are their",
