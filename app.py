@@ -64,14 +64,15 @@ college_data = {
     "fees": "B.Tech: ₹2.5–3.5 LPA \n BCA: ₹1.2–1.5 LPA PER YEAR",
     "placement": "Highest: ₹65+ LPA  Avg: ₹5–8 LPA",
    
-    "hostel name": """CHANDRA SHEKHER AZAD\n  
+    "hostel ": """CHANDRA SHEKHER AZAD\n  
     SARDAR PATEL HOSTEL\n  
     NETAJI SUBHASH CHANDRA HOSTEL\n
-    SAI HOSTEL""", 
+    SAI HOSTEL  \n
+    "hostel fees ": 160000 These fees may vary for different hostels """, 
 
     # "mayank": "hello",
     
-    "hostel fees ":" 160000 These fees may vary for different hostels ",
+   
     "faculty": "600+ Faculty | PhD Holders"
     
    
@@ -119,8 +120,8 @@ def get_response(user_input):
         return college_data["courses"]
      # elif "mayank" in user_input:
      #    return college_data["mayank"]
-    elif "hostel name" in user_input:
-        return college_data["hostel name"]
+    elif "hostel " in user_input:
+        return college_data["hostel "]
     elif "hostel fees" in user_input:
         return college_data["hostel fees"]
     elif "placement" in user_input:
