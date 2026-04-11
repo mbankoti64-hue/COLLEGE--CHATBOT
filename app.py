@@ -63,8 +63,8 @@ college_data = {
     "courses": "B.Tech, BCA, MBA, BBA, B.Com, MCA TOTAL 100+ course (UG + PG + PHD + Diploma)" ,
     "fees": "B.Tech: ₹2.5–3.5 LPA | BCA: ₹1.2–1.5 LPA PER YEAR",
     "placement": "Highest: ₹65+ LPA | Avg: ₹5–8 LPA",
-    "hostel": "WiFi, Mess, Security 24/7","ALL best  are their",
-    "hostel name": "CHANDRA SHEKHER AZAD ",  "SARDAR PATEL HOSTEL" ,  "NETAJI SUBHASH CHANDRA HOSTEL"  ,"SAI HOSTEL", 
+    "hostel": "WiFi, Mess, Security 24/7,ALL best  are their",
+    "hostel name": "CHANDRA SHEKHER AZAD ,  SARDAR PATEL HOSTEL ,  NETAJI SUBHASH CHANDRA HOSTEL  , SAI HOSTEL", 
     "hostel fees ":" 160000 These fees may vary for different hostels ",
     "faculty": "600+ Faculty | PhD Holders"
 }
