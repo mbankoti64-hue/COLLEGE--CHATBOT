@@ -186,7 +186,7 @@ st.title("🎓 Graphic Era Smart Assistant")
 st.write("Your 24/7 College Help Partner 🤖")
 
 # Data (FIXED)
-college_data = 
+college_data = {
     "about": 
         "established": 1997,
         "location": "Dehradun, Uttarakhand",
@@ -216,6 +216,7 @@ college_data =
     ,
 
     "faculty": "600+ Faculty | PhD Holders"
+}
 
 
 # Sidebar
