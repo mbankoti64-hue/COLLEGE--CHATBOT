@@ -69,16 +69,13 @@ college_data = {
     SARDAR PATEL HOSTEL\n  
     NETAJI SUBHASH CHANDRA HOSTEL\n
     SAI HOSTEL  \n
-    "hostel fees ": 160000 These fees may vary for different hostels """, 
+    "hostel fees": 160000 These fees may vary for different hostels """, 
 
      "
     # "mayank": "hello",
     
    
-    "faculty":"""Name: priyansh kumar \n
-                       mohit amoli 
-                       mayank
-    "600+ Faculty | PhD Holders"""
+    "faculty":"600+ Faculty | PhD Holders"
     
    
 }
