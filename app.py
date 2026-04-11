@@ -64,7 +64,8 @@ college_data = {
     "fees": "B.Tech: ₹2.5–3.5 LPA \n BCA: ₹1.2–1.5 LPA PER YEAR",
     "placement": "Highest: ₹65+ LPA  Avg: ₹5–8 LPA",
    
-    "hostel ": """name:CHANDRA SHEKHER AZAD\n  
+    "hostel": """Name:\n
+    CHANDRA SHEKHER AZAD\n  
     SARDAR PATEL HOSTEL\n  
     NETAJI SUBHASH CHANDRA HOSTEL\n
     SAI HOSTEL  \n
