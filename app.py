@@ -53,12 +53,16 @@ if "welcome_shown" not in st.session_state:
 # Data
 # -------------------------------
 college_data = {
-    "about": "Graphic Era University, Dehradun | NAAC A+ | Established 1993",
-    "courses": "B.Tech, BCA, MBA, BBA, B.Com, MCA",
-    "fees": "B.Tech: ₹2.5–3.5 LPA | BCA: ₹1.2–1.5 LPA",
-    "placement": "Highest: ₹50+ LPA | Avg: ₹5–8 LPA",
-    "hostel": "WiFi, Mess, Security 24/7",
-    "faculty": "500+ Faculty | PhD Holders"
+    "about": "LOCATION" : "Dehadun , uttrakhand" 
+     "ESTABLISHED: 1997,
+     
+    "courses": "B.Tech, BCA, MBA, BBA, B.Com, MCA TOTAL 100+ course (UG + PG + PHD + Diploma) ",
+    "fees": "B.Tech: ₹2.5–3.5 LPA | BCA: ₹1.2–1.5 LPA PER YEAR",
+    "placement": "Highest: ₹65+ LPA | Avg: ₹5–8 LPA",
+    "hostel": "WiFi, Mess, Security 24/7","ALL best  are their",
+    "hostel name": "CHANDRA SHEKHER AZAD ",  "SARDAR PATEL HOSTEL" ,  "NETAJI SUBHASH CHANDRA HOSTEL"  ,"SAI HOSTEL", 
+    "hostel fees ":" 160000 These fees may vary for different hostels ",
+    "faculty": "600+ Faculty | PhD Holders"
 }
 
 # -------------------------------
@@ -101,6 +105,10 @@ def get_response(user_input):
         return college_data["fees"]
     elif "course" in user_input:
         return college_data["courses"]
+    elif "hostel name" in user_input:
+        return college_data["hostel name"]
+    elif "hostel fees" in user_input:
+        return college_data["hostel fees"]
     elif "placement" in user_input:
         return college_data["placement"]
     elif "hostel" in user_input:
@@ -109,10 +117,10 @@ def get_response(user_input):
         return college_data["faculty"]
     elif "about" in user_input or "college" in user_input:
         return college_data["about"]
-    elif "hi" in user_input or "hello" in user_input:
-        return "Hello 👋! Ask me anything about the college."
+    elif "hi" in user_input or "hello" in user_input or "namste bhai jii" in user_input:
+        return "AA GYA GANDU HIIIIIIIIII KESA LGA MERA MAJAK "
     else:
-        return "❗ Try asking about fees, courses, placement, hostel."
+        return "❗  ARE BHOSDIKE IN QUESTION ME SE KUCH PUCH NA KYU APNI GAND MRA RAHA HAI BHOSDII Try asking about fees, courses, placement, hostel."
 
 # -------------------------------
 # Show old messages
