@@ -123,8 +123,8 @@ def get_response(user_input):
     elif "placement" in user_input:
         return college_data["placement"]
     # elif "hostel" in user_input:
-    elif "faculty name" in user_input:
-        return college_data["faculty name"]
+    elif "faculty names" in user_input:
+        return college_data["faculty names"]
     elif "faculty" in user_input:
         return college_data["faculty"]
     elif "about" in user_input or "college" in user_input:
